@@ -17,7 +17,7 @@ Automation: GitHub Actions
 These tools and practices provided me with the foundation to work efficiently in modern DevOps environments, emphasizing scalability, reliability, and automation.
 
 # Blog 1
-# A Beginner’s Guide to Kubernetes: Orchestrating Containers for Modern Applications
+**A Beginner’s Guide to Kubernetes: Orchestrating Containers for Modern Applications**
 This blog provides a comprehensive introduction to Kubernetes, a powerful tool for managing containerized applications. It explores why Kubernetes is essential for modern applications and explains its core components and benefits.
 
 What I Learned
@@ -58,30 +58,34 @@ DevOps Integration: Seamlessly integrates with CI/CD pipelines.
 Conclusion
 Kubernetes revolutionizes the management of containerized applications, making it necassary for modern, distributed systems. Whether you're running a small web app or a complex microservices architecture, Kubernetes provides the tools for efficient operation.
 
-Link to medium: https://medium.com/@mibrahimzia48/a-beginners-guide-to-kubernetes-orchestrating-containers-for-modern-applications-1785aca50a67
+Link to medium: [A Beginner’s Guide to Kubernetes: Orchestrating Containers for Modern Applications](https://medium.com/@mibrahimzia48/a-beginners-guide-to-kubernetes-orchestrating-containers-for-modern-applications-1785aca50a67)
 
 # Blog 2
-# Deploying AWS Infrastructure with Terraform: A Step-by-Step Guide
+**Deploying AWS Infrastructure with Terraform: A Step-by-Step Guide**
 Terraform is an Infrastructure-as-Code (IaC) tool that enables efficient deployment and management of cloud resources. This guide provides a step-by-step overview of provisioning an EC2 instance on AWS using Terraform. The process includes installing Terraform, configuring AWS credentials, writing a basic configuration file (`main.tf`), and executing commands to initialize, plan, and apply the configuration.
 
 With Terraform, you can automate infrastructure tasks, ensure consistency, and scale resources effectively. The tool also simplifies resource teardown through its `terraform destroy` command, making it easy to manage and clean up your cloud environment.
 
 By following this guide, you can streamline the deployment process and gain hands-on experience with Terraform's capabilities, empowering you to handle cloud infrastructure more efficiently.
 
-Link to medium: https://medium.com/@mibrahimzia48/deploying-aws-infrastructure-with-terraform-a-step-by-step-guide-d1a4d71bdec7
+Link to medium: [Deploying AWS Infrastructure with Terraform: A Step-by-Step Guide](https://medium.com/@mibrahimzia48/deploying-aws-infrastructure-with-terraform-a-step-by-step-guide-d1a4d71bdec7)
 
 # Blog 3
+**Setting Up a Monitoring System with Prometheus and Grafana**
+This guide explains how to set up a monitoring system using Prometheus and Grafana. First, you install Prometheus, configure it to scrape metrics (e.g., from Node Exporter), and run it on your system. Next, Grafana is installed, and Prometheus is added as a data source for visualization. Dashboards are created to monitor system metrics, and alerts are configured to notify on thresholds, such as high CPU usage. The setup ensures proactive monitoring, allowing you to analyze real-time data, set up alerts, and improve observability for your applications.
+
+Link to medium: [Setting Up a Monitoring System with Prometheus and Grafana](https://medium.com/@mibrahimzia48/setting-up-a-monitoring-system-with-prometheus-and-grafana-e67a78d17c4a)
 
 # Links
 🌐 Platforms
 # Medium
 Discover my articles and insights:
-Visit Medium Profile
+[Visit Medium Profile](https://medium.com/@mibrahimzia48)
 
 # GitHub
 Explore my projects and contributions:
-Visit GitHub Profile
+[Visit GitHub Profile](https://github.com/muhammad-12345)
 
 # LinkedIn
 Connect with me professionally:
-Visit LinkedIn Profile
+[Visit LinkedIn Profile](www.linkedin.com/in/muhammad-ibrahim-zia-150ab5242)
